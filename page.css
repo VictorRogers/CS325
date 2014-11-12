@@ -1,0 +1,26 @@
+/* stylesheet */
+
+body {
+	background-color: cadetblue;
+}
+
+h1 {
+	text-align: center;
+}
+
+#browsewin {
+	width: 41%;
+	margin-left: 30%;
+	margin-right: auto;
+}
+
+#car {
+	border: 2px black solid;
+	background-color: white;
+	padding: 5px;
+}
+
+button {
+	float: right;
+	margin-left: 1em;
+}
